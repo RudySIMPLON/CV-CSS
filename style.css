@@ -1,0 +1,19 @@
+body {
+
+	background-color: #a5dff9;
+	font-family: 'Open Sans', sans-serif;
+
+}
+
+li {
+
+	color: red;
+	list-style: none; 
+
+}
+
+.done {
+
+	color:green;
+	text-decoration: line-through;
+}
